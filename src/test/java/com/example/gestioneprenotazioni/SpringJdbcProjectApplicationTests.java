@@ -1,4 +1,4 @@
-package com.example.spring_jdbc_project;
+package com.example.gestioneprenotazioni;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
